@@ -21,7 +21,7 @@ const MostPopular = () => {
               Most Popular Courses
             </h2>
             <p
-              className="text-[#737373] text-sm leading-[142.857%] tracking-[0.2px] font-bold text-center"
+              className="text-[#737373] text-sm leading-[142.857%] tracking-[0.2px] font-normal text-center"
               data-aos="zoom-in"
             >
               <span className="lg:block">

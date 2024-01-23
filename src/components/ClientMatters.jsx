@@ -32,7 +32,7 @@ const ClientMatters = () => {
               Every Client Matters
             </h2>
             <p
-              className="text-[#737373] text-sm leading-[142.857%] tracking-[0.2px] font-bold text-center"
+              className="text-[#737373] text-sm leading-[142.857%] tracking-[0.2px] font-normal text-center"
               data-aos="fade-up"
             >
               <span className="sm:block">

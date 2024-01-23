@@ -29,7 +29,7 @@ const OurCourses = () => {
                   Our Popular Courses
                 </h2>
                 <p
-                  className="text-[#737373] text-sm !leading-[142.857%] font-bold tracking-[0.2px] lg:max-w-[345px] lg:pb-[35px] pb-[15px]"
+                  className="text-[#737373] text-sm !leading-[142.857%] font-normal tracking-[0.2px] lg:max-w-[345px] lg:pb-[35px] pb-[15px]"
                   data-aos="zoom-in"
                 >
                   Problems trying to resolve the conflict between the two major

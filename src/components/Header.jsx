@@ -13,7 +13,7 @@ const Header = () => {
   }
   return (
     <>
-      <div id="Home" className="relative">
+      <div className="relative">
         <img
           src={LeftImg}
           alt="LeftImg"
@@ -27,7 +27,7 @@ const Header = () => {
         <div className=" container xl:max-w-[980px] mx-auto lg:px-4 px-6">
           <div className=" flex justify-between items-center py-4 ">
             <div className="flex items-center gap-[87px]">
-              <p className=" text-[#252B42] text-2xl !leading-[133.333%] font-bold translate-[0.1px]">
+              <p className="cursor-pointer text-[#252B42] text-2xl !leading-[133.333%] font-bold translate-[0.1px]">
                 Brandname
               </p>
               <ul
@@ -128,7 +128,10 @@ const Header = () => {
             </div>
           </div>
         </div>
-        <div className=" container mx-auto xl:py-[148px] sm:py-[70px] py-[50px] xl:max-w-[1320px] lg:px-4 px-6">
+        <div
+          id="Home"
+          className="container mx-auto xl:py-[148px] sm:py-[70px] py-[50px] xl:max-w-[1320px] lg:px-4 px-6"
+        >
           <div className=" flex flex-row flex-wrap">
             <div className=" lg:w-6/12">
               <p
