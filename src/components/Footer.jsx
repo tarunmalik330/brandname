@@ -171,7 +171,6 @@ const Footer = () => {
             <div className="flex flex-col gap-[10px] items-center lg:justify-center">
               <a
                 href="tel:4805550103"
-                target="blank"
                 className="flex items-center justify-start gap-[10px]"
               >
                 <TellIcon />
@@ -191,7 +190,6 @@ const Footer = () => {
               </a>
               <a
                 href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new"
-                target="blank"
                 className="flex items-center justify-start gap-[10px]"
               >
                 <MessageIcon />

@@ -235,7 +235,7 @@ const QualityEducation = () => {
                       </p>
                     </div>
                     <div className="flex items-center gap-[10px] ">
-                      <div className="w-[32px] h-[32px] rounded-[200px] flex justify-center items-center bg-[#BDBDBD]">
+                      <div className="w-[32px] h-[32px] rounded-[32px] flex justify-center items-center bg-[#BDBDBD]">
                         <WhiteTick />
                       </div>
                       <p className="text-[#252B42] font-bold text-sm group-hover:text-white transition-colors ease-linear duration-500 !leading-[171.429%] tracking-[0.2px]">
