@@ -38,7 +38,7 @@ const PopularCourses = () => {
               the two major realms of Classical physics: Newtonian mechanics{" "}
             </p>
           </div>
-          <div className="flex justify-center items-center" data-aos="zoom-in">
+          <div className="flex justify-center items-center">
             <div className="max-w-[688px]">
               <div className="relative">
                 <img
